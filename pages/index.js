@@ -5,6 +5,7 @@ function Home() {
     return  (
         <div>
             <h1>Home Jonas</h1>
+            <Contador />
         </div>
     )
 }
