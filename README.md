@@ -1,20 +1,19 @@
 ## COMANDOS
 
 ```
-##instalar nodejs
+## Instalar o nodejs para ter o npm
 $ npm init -y
 $ npm install next
 $ npm install react
 $ npm install react-dom
 
-##ou instalar todos de uma vez
-
+## ou instalar todos de uma vez
 $ npm install next react react-dom
 
-##Executar a pagina
+## Executar o servidor
 $ npm run dev
 
-##Git
+## Comandos git
 $ git add -A
 $ git commit -m 'primeira aula'
 $ git config --global user.email "jonasbfranco@hotmail.com"
